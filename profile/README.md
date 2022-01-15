@@ -1,6 +1,6 @@
 ## Hi there 👋
 **This is me, Corneliana.**  
-As you can probably tell or not, the name came from one of my favorite songs: * *Cornelia Street* *.[^1]  
+As you can probably tell or not, the name came from one of my favorite songs: * *[Cornelia Street](https://www.youtube.com/watch?v=VikHHWrgb4Y)* *.[^1]  
 🙋‍♀️ A short introduction - this organization is for me to learn everything (or not necessarily everything) I need to know about developing  
 🌈 Contribution guidelines - step by step, self-learning without hesitation to ask questions, being retrospective, and more importantly, my amazing coaches o(*￣▽￣*)ブ   
 👩‍💻 Useful resources - [find me here](https://github.com/gtb-2022-lian-pengzi)😄  

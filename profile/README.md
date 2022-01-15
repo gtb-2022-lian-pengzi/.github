@@ -11,7 +11,7 @@ More about me:
 This is Jan. 2022 and I am about to be a fresh graduate this June.    
 This is me in 2021:  
 <img src= "https://github.com/gtb-2022-lian-pengzi/.github/blob/main/assets/me%20in%202021-1.jpg" alt="me in 2021😂" width="30%" />  
-Kind of getting lost in the sea of knowledge but it's fun. My spark is being turned on and off again and again😊:  
+Kind of getting lost in the sea of knowledge but it's fun. My spark is being turned off and on again and again😊:  
 <img src= "https://github.com/gtb-2022-lian-pengzi/.github/blob/main/assets/be%20like.jpg" alt="get lost😂" width="30%" />  
 And that's my expectations:  
 <img src = "https://github.com/gtb-2022-lian-pengzi/.github/blob/main/assets/so%20next.jpg" alt="find myself" width="30%"/>
